@@ -6,7 +6,6 @@ availability and handling user input efficiently. Behind the scenes, core Python
 This project is perfect for beginners who want to learn Python through a real-life café scenario. It serves as a strong foundation for building more advanced café management features like quantity handling, 
 discounts, digital receipts, and payment options.
 Whether you’re a student exploring Python or someone who loves blending code with creativity, this project brings the charm of a café into a simple yet functional billing system .
-
 ✨ Features
 Displays a café menu with prices
 Takes multiple customer orders
