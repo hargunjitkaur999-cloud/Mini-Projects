@@ -1,0 +1,18 @@
+🎮 Rock Paper Scissors — Python Mini Game
+
+A simple yet fun Rock–Paper–Scissors game built with Python, where the user plays against the computer 🎯💻.
+Designed with clean logic, smooth gameplay, and cute emoji-based messages to make learning Python more enjoyable ✨
+This project demonstrates how basic programming concepts can come together to create an interactive game experience — perfect for beginners and practice-based learning 🌱
+✨ Highlights
+User vs Computer gameplay
+Randomized computer moves 🎲
+Structured using Python functions
+Loop-based replay system 🔁
+Friendly, cute, and interactive messages 😄
+Graceful handling of invalid inputs ❌
+
+
+🚀 Getting Started
+
+Run the Python file, choose your move, and enjoy the game!
+Simple to play, easy to understand, and fun to explore 🎉
